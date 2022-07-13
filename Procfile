@@ -1,1 +1,1 @@
-bot: python3 bot_grilla3.py
+worker python3 bot_grilla3.py
