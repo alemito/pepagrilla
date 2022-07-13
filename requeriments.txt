@@ -1,0 +1,2 @@
+pip install python-telegram-bot
+python3 -m pip install JustWatch
