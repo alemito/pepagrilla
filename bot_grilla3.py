@@ -1,7 +1,7 @@
 import telebot #Manejo de API de Telegram
 from justwatch import JustWatch
 
-bot = telebot.TeleBot("5416781883:AAFTprcIK7Kanu-Lq4aTazFL8nDAv6RC8y8")
+bot = telebot.TeleBot(TOKEN)
 
 #Datos globales:
 
